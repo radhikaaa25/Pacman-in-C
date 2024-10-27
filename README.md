@@ -10,7 +10,7 @@ A classic **Pacman-style** game built in **C** using **graphics.h**. Navigate th
 - **Points**: Gain points by eating pellets. Avoid crossing walls to prevent losing points.
 
 <p align="center">
-  <img src="img/pc1.png" alt="Pacman Game Demo" width="400"/>
+  <img src="img/pc5.png" alt="Pacman Game Demo" width="400"/>
 </p>
 
 ---
@@ -84,7 +84,7 @@ A classic **Pacman-style** game built in **C** using **graphics.h**. Navigate th
 ## 🖼️ Visuals
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/example/pacman-maze.png" alt="Pacman Maze Screenshot" width="500"/>
+  <img src="img/pc4.png" alt="Pacman Game Demo" width="400"/>
 </p>
 
 ---
