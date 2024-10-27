@@ -10,7 +10,7 @@ A classic **Pacman-style** game built in **C** using **graphics.h**. Navigate th
 - **Points**: Gain points by eating pellets. Avoid crossing walls to prevent losing points.
 
 <p align="center">
-  <img src="img/pc1" alt="Pacman Game Demo" width="400"/>
+  <img src="img/pc1.png" alt="Pacman Game Demo" width="400"/>
 </p>
 
 ---
@@ -31,9 +31,9 @@ A classic **Pacman-style** game built in **C** using **graphics.h**. Navigate th
 2. Open the project in Turbo C or Borland C.
 
 3. Ensure the ```BGI``` path is correctly set in the ```initgraph()``` function in the code:
-```bash 
-initgraph(&gd, &gm, "C:\\TURBOC3\\BGI");
-```
+   ```bash 
+   initgraph(&gd, &gm, "C:\\TURBOC3\\BGI");
+   ```
 
 4. Compile and Run the project.
    
@@ -72,7 +72,13 @@ initgraph(&gd, &gm, "C:\\TURBOC3\\BGI");
 ### 3. **Game Over Condition**
 
    - The game ends when Pacman eats all pellets or when the score reaches zero.
-
+     
+   <p align="center">
+  <img src="img/pc2.png" alt="Pacman Game Over" width="400"/>
+</p>
+<p align="center">
+  <img src="img/pc3.png" alt="Pacman Game Over" width="400"/>
+</p>
 ---
 
 ## 🖼️ Visuals
